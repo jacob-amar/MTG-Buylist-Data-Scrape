@@ -11,7 +11,8 @@ standard_sets = {"rivals_of_ixalan" : "7233",
                  "dominaria" : "7283",
                  "core_set_2019" : "7373",
                  "guilds_of_ravnica" : "7414",
-                 "ravnica_allegiance" : "7423"}
+                 "ravnica_allegiance" : "7423",
+                 "war_of_the_spark": "7428"}
 
 for sets,code in standard_sets.items():
     for i in range(1,2):
